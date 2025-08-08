@@ -47,5 +47,5 @@ Users can create, update, and delete their own tips. There’s also an **Explore
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/yourusername/my-garden.git
+https://github.com/devmostafakamal/GardenHub.git
 
